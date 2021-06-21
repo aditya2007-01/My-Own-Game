@@ -1,0 +1,24 @@
+story;
+ Once a snake is very hungry and he goes in the serach of food and reaches a maze and there he finds the food;
+
+goal;
+ the snake has to eat all the food in the maze;
+
+playing characters;
+ snake;
+
+non playing characters;
+  obstacles,food;
+
+animations;
+ we will use the boxes for the snake;
+ And I am having the sounds;
+
+gamelook;
+ it will look like a snake game;
+
+identifying;
+ the player can play on the mobile;
+
+
+ 
